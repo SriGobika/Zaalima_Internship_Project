@@ -56,7 +56,7 @@ It is designed using *Microsoft Power BI* to track key performance metrics and u
 ---
 
 ## 🖼️ Dashboard Preview
-![Sales Dashboard Preview](dashboard.png)
+![Sales Dashboard Screenshot](Screenshots/dashboard.png)
 
 (You can rename your image file to dashboard.png and upload it in your repository to make this visible.)
 
