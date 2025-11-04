@@ -1,4 +1,4 @@
- # Sales Analysis Dashboard — Power BI Project
+# Sales Analysis Dashboard — Power BI Project
 
 ## 📊 Overview
 This *Sales Analysis Dashboard* provides a comprehensive view of company sales performance across multiple regions, segments, and years.  
