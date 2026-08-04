@@ -1,8 +1,9 @@
 # Sales Analysis Dashboard — Power BI Project
 
 ## 📊 Overview
-This *Sales Analysis Dashboard* provides a comprehensive view of company sales performance across multiple regions, segments, and years.  
-It is designed using *Microsoft Power BI* to track key performance metrics and uncover insights that support data-driven decisions.
+- This project was developed during my Data Analytics Internship at Zaalima Development. It demonstrates how Power BI and Microsoft Excel can be used to analyze sales performance and create interactive dashboards for business decision-making.
+- This *Sales Analysis Dashboard* provides a comprehensive view of company sales performance across multiple regions, segments, and years.  
+- It is designed using *Microsoft Power BI* to track key performance metrics and uncover insights that support data-driven decisions.
 
 ---
 
