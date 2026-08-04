@@ -56,11 +56,8 @@ It is designed using *Microsoft Power BI* to track key performance metrics and u
 ---
 
 ## 🖼️ Dashboard Preview
-![Sales Dashboard Screenshot](Screenshots/zaalima internship project/dashboard.png)
 
-(You can rename your image file to dashboard.png and upload it in your repository to make this visible.)
-
----
+![Sales Dashboard](dashboard.png)
 
 ## 💡 Learnings
 - Created and customized visuals in *Power BI*.
